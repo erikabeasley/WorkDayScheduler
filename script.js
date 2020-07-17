@@ -12,7 +12,7 @@ $(document).ready(function () {// essentially tells engine to load 1)html & 2)cs
         //set items in local storage.
         localStorage.setItem(time, text);
     })
-    //load any saved data from LocalStorage - do this for each hour created.
+    //load any saved data from LocalStorage
     $("#time8 .description").val(localStorage.getItem("time8"));
     $("#time9 .description").val(localStorage.getItem("time9"));
     $("#time10 .description").val(localStorage.getItem("time10"));
