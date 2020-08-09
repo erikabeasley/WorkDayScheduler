@@ -10,6 +10,6 @@ When the user opens the application the current date and time is displayed at th
 
 https://erikabeasley.github.io/WorkDayScheduler/
 
-![WorkDay Scheduler](assets/capture.PNG)
+![WorkDay Scheduler](assets/Capture.PNG)
 
 
