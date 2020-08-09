@@ -6,6 +6,10 @@ Moment.js was used to create a function displaying the current time and date. Th
 
 When the user opens the application the current date and time is displayed at the top of the page. The user can add important events to each hour block on the schedule. I added a save button to the end of each hour block row to store the events in local storage. If the user re-freshes the page the events will be saved and still be displayed to the user.
 
+# Deployed Application
 
+https://erikabeasley.github.io/WorkDayScheduler/
+
+![WorkDay Scheduler](/capture.PNG)
 
 
